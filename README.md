@@ -1,7 +1,7 @@
 
 ## VR
 ---
-VR application developed in Unity for the Oculus Quest. This repository provides the final build as [Build 1](build1.apk). It uses the TCP communication protocol to communicate with the Raspberry PI or other devices as a client. 
+VR application developed in Unity for the Oculus Quest. This repository provides the final build as [Build 1](Build1.apk). It uses the TCP communication protocol to communicate with the Raspberry PI or other devices as a client. 
 
 
 ### Installation
