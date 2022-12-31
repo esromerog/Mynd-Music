@@ -1,6 +1,9 @@
+# Information, use & installation
+Mynd Music is a music-creation project where a user enters a VR Experience and his/her emotions define the unique songs created.
+
+WIP documentation for the project. It is still subject to change as more files are uploaded & changes could be made.
 
 ## VR
----
 VR application developed in Unity for the Oculus Quest. This repository provides the final build as [Build 1](Build1.apk). It uses the TCP communication protocol to communicate with the Raspberry PI or other devices as a client. 
 
 
